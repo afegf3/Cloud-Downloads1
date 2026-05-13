@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5274",
+  "folder": "Other__siesta-5.4.2.tar_20260513203824_40183b",
+  "base_name": "Other__siesta-5.4.2.tar_20260513203824_40183b.gz",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/afegf3/Cloud-Downloads1/releases/tag/co-releases-v1-5274",
+  "files": [
+    {
+      "name": "Other__siesta-5.4.2.tar_20260513203824_40183b.gz",
+      "url": "https://github.com/afegf3/Cloud-Downloads1/releases/download/co-releases-v1-5274/Other__siesta-5.4.2.tar_20260513203824_40183b.gz",
+      "api_url": "https://api.github.com/repos/afegf3/Cloud-Downloads1/releases/assets/419601901",
+      "id": 419601901,
+      "size": 17106972,
+      "download_count": 0
+    }
+  ]
+}
